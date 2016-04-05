@@ -1,0 +1,12 @@
+{
+  "name": "contained/contained-php-framework",
+  "description": "Php framework for the contained platform",
+  "minimum-stability": "dev",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Faurk Brbovic",
+      "email": "fbrbovic@contained.cloud"
+    }
+  ]
+}
